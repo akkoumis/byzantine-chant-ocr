@@ -16,7 +16,7 @@ output.byzocr
 output.yaml
 output.byzx
 output.png
-metadata.json
+#metadata.json
 train_log.txt
 e2e.report.json
 e2e.report.full.json
